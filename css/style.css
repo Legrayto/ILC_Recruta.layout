@@ -427,7 +427,7 @@ body._lock {
     top: 90px;
     right: 50%;
     transform: translate(50%, 0);
-    background: url("./img/main-block/main/01.svg") 0 0/280px no-repeat;
+    background: url("/img/main-block/main/01.svg") 0 0/280px no-repeat;
     z-index: 10;
     opacity: .4;
 }
